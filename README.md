@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Kaycee124
-- 👀 I’m interested in Php, Laravel nextjs flutter and more
-- 🌱 I’m currently learning Devops
+- 👀 I’m interested in Php, Laravel nextjs flutter
+- AI and ML 
+- 🌱 Growth Minded
 -m
 
 <!---
