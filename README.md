@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kaycee124
+- 👋 Hi, I’m Kizito
 - 👀 I’m interested in Php, Laravel nextjs flutter
 - 🤖 AI and ML 
 - 🌱 Growth Minded
