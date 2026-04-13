@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kaycee124
 - 👀 I’m interested in Php, Laravel nextjs flutter
-- AI and ML 
+- 🤖 AI and ML 
 - 🌱 Growth Minded
 -m
 
